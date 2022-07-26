@@ -1,0 +1,28 @@
+
+#nav-bar ul {
+    list-style-type: none !important;
+    float: right;
+}
+
+#nav-bar ul li {
+    display: inline;
+    margin-right: 25px;
+    
+}
+
+#nav-bar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#header-img{
+    float: left;
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+}
+
+#header{
+    overflow: hidden;
+    margin-bottom: 30px;
+}
